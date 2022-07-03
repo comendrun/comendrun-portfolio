@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b555f9c9.css",
-    "main.js": "/static/js/main.eb86e7ce.js",
+    "main.css": "/static/css/main.b60fda3f.css",
+    "main.js": "/static/js/main.57a7cae1.js",
     "static/media/Weather-Image-App-mobile.png": "/static/media/Weather-Image-App-mobile.09bca150c2433012a3a3.png",
     "static/media/Sunnyside Agency Landing Page-mobile.png": "/static/media/Sunnyside Agency Landing Page-mobile.50f9fbecd2f6a033dd3d.png",
     "static/media/sunnyside-agency-landing-page-mobile.png": "/static/media/sunnyside-agency-landing-page-mobile.50f9fbecd2f6a033dd3d.png",
-    "static/media/comendrun2.jpg": "/static/media/comendrun2.c3f81c413249db7c5aeb.jpg",
     "static/media/New-Quiz-App-mobile.png": "/static/media/New-Quiz-App-mobile.2ea9435f5add22a24765.png",
     "static/media/Quizzical App-mobile.png": "/static/media/Quizzical App-mobile.2ea9435f5add22a24765.png",
+    "static/media/comendrun2.jpg": "/static/media/comendrun2.967b89809bd28e191d74.jpg",
     "static/media/3-column-preview-card-component-mobile.png": "/static/media/3-column-preview-card-component-mobile.ceb3ef75d44d11de2429.png",
     "static/media/comendrun.jpg": "/static/media/comendrun.c71f7bc4255479a6f613.jpg",
     "static/media/Tip Calculator app-mobile.png": "/static/media/Tip Calculator app-mobile.9ce4c9bcd09fadadab17.png",
@@ -16,11 +16,11 @@
     "static/media/Random Quote Machine-mobile.png": "/static/media/Random Quote Machine-mobile.9f78c12c3a4f3b76ba28.png",
     "static/media/quote-mobile.png": "/static/media/quote-mobile.9f78c12c3a4f3b76ba28.png",
     "index.html": "/index.html",
-    "main.b555f9c9.css.map": "/static/css/main.b555f9c9.css.map",
-    "main.eb86e7ce.js.map": "/static/js/main.eb86e7ce.js.map"
+    "main.b60fda3f.css.map": "/static/css/main.b60fda3f.css.map",
+    "main.57a7cae1.js.map": "/static/js/main.57a7cae1.js.map"
   },
   "entrypoints": [
-    "static/css/main.b555f9c9.css",
-    "static/js/main.eb86e7ce.js"
+    "static/css/main.b60fda3f.css",
+    "static/js/main.57a7cae1.js"
   ]
 }
