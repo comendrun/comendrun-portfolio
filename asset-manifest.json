@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a2b0a7e3.css",
-    "main.js": "/static/js/main.89e8e321.js",
+    "main.js": "/static/js/main.f2abd545.js",
     "static/media/Weather Image App-mobile.png": "/static/media/Weather Image App-mobile.09bca150c2433012a3a3.png",
     "static/media/Sunnyside Agency Landing Page-mobile.png": "/static/media/Sunnyside Agency Landing Page-mobile.50f9fbecd2f6a033dd3d.png",
     "static/media/sunnyside-agency-landing-page-mobile.png": "/static/media/sunnyside-agency-landing-page-mobile.50f9fbecd2f6a033dd3d.png",
@@ -17,10 +17,10 @@
     "static/media/quote-mobile.png": "/static/media/quote-mobile.9f78c12c3a4f3b76ba28.png",
     "index.html": "/index.html",
     "main.a2b0a7e3.css.map": "/static/css/main.a2b0a7e3.css.map",
-    "main.89e8e321.js.map": "/static/js/main.89e8e321.js.map"
+    "main.f2abd545.js.map": "/static/js/main.f2abd545.js.map"
   },
   "entrypoints": [
     "static/css/main.a2b0a7e3.css",
-    "static/js/main.89e8e321.js"
+    "static/js/main.f2abd545.js"
   ]
 }
