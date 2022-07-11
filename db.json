@@ -21,7 +21,7 @@
           "name": "JavaScript",
           "display": "fa-brands fa-js"
         },
-  
+
         {
           "name": "ReactJS",
           "display": "fa-brands fa-react"
@@ -209,7 +209,45 @@
         "mobile": "",
         "desktop": ""
       }
+    },
+    {
+      "id": "7",
+      "title": "Blogr landing page",
+      "about": "",
+      "links": {
+        "live": "https://comendrun.com/Blogr-landing-page/",
+        "github": "https://github.com/comendrun/Blogr-landing-page"
+      },
+      "tech": [
+        {
+          "name": "HTML",
+          "display": "fa-brands fa-html5"
+        },
+        {
+          "name": "CSS",
+          "display": "fa-brands fa-css3-alt"
+        },
+        {
+          "name": "JavaScript",
+          "display": "fa-brands fa-js"
+        },
+        {
+          "name": "ReactJS",
+          "display": "fa-brands fa-react"
+        },
+        {
+          "name": "Responsive",
+          "display": "fa-solid fa-mobile-screen-button"
+        },
+        {
+          "name": "TailwindCSS",
+          "display": "tailwind-css"
+        }
+      ],
+      "images": {
+        "mobile": "",
+        "desktop": ""
+      }
     }
   ]
-  
 }
