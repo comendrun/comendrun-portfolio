@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.176d286f.css",
-    "main.js": "/static/js/main.53b8420e.js",
+    "main.css": "/static/css/main.96e29fa5.css",
+    "main.js": "/static/js/main.1aa5dc23.js",
     "static/media/Blogr landing page-mobile.png": "/static/media/Blogr landing page-mobile.deeed775f084f4658b57.png",
     "static/media/Weather Image App-mobile.png": "/static/media/Weather Image App-mobile.09bca150c2433012a3a3.png",
     "static/media/Sunnyside Agency Landing Page-mobile.png": "/static/media/Sunnyside Agency Landing Page-mobile.50f9fbecd2f6a033dd3d.png",
     "static/media/sunnyside-agency-landing-page-mobile.png": "/static/media/sunnyside-agency-landing-page-mobile.50f9fbecd2f6a033dd3d.png",
+    "static/media/Intro section with dropdown navigation-mobile.png": "/static/media/Intro section with dropdown navigation-mobile.864430b5cc1a06b27e68.png",
     "static/media/New-Quiz-App-mobile.png": "/static/media/New-Quiz-App-mobile.2ea9435f5add22a24765.png",
     "static/media/Quizzical App-mobile.png": "/static/media/Quizzical App-mobile.2ea9435f5add22a24765.png",
     "static/media/comendrun2.jpg": "/static/media/comendrun2.967b89809bd28e191d74.jpg",
+    "static/media/Huddle landing Page with Single Introductory Section-mobile.png": "/static/media/Huddle landing Page with Single Introductory Section-mobile.5f2981720cec894cadd0.png",
     "static/media/3-column-preview-card-component-mobile.png": "/static/media/3-column-preview-card-component-mobile.ceb3ef75d44d11de2429.png",
     "static/media/comendrun.jpg": "/static/media/comendrun.c71f7bc4255479a6f613.jpg",
     "static/media/Tip Calculator app-mobile.png": "/static/media/Tip Calculator app-mobile.9ce4c9bcd09fadadab17.png",
@@ -17,11 +19,11 @@
     "static/media/Random Quote Machine-mobile.png": "/static/media/Random Quote Machine-mobile.9f78c12c3a4f3b76ba28.png",
     "static/media/quote-mobile.png": "/static/media/quote-mobile.9f78c12c3a4f3b76ba28.png",
     "index.html": "/index.html",
-    "main.176d286f.css.map": "/static/css/main.176d286f.css.map",
-    "main.53b8420e.js.map": "/static/js/main.53b8420e.js.map"
+    "main.96e29fa5.css.map": "/static/css/main.96e29fa5.css.map",
+    "main.1aa5dc23.js.map": "/static/js/main.1aa5dc23.js.map"
   },
   "entrypoints": [
-    "static/css/main.176d286f.css",
-    "static/js/main.53b8420e.js"
+    "static/css/main.96e29fa5.css",
+    "static/js/main.1aa5dc23.js"
   ]
 }
