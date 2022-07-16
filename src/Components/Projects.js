@@ -35,7 +35,7 @@ export default function Projects() {
                 <i
                   title={each.name}
                   key={nanoid()}
-                  className={each.display}
+                  className={`${each.display} icons`}
                 ></i>
               );
             })}

@@ -32,12 +32,72 @@
         }
       ],
       "images": {
-        "mobile": "../src/Assets/Project Images/other/quote-mobile.png",
-        "desktop": "../src/Assets/Project Images/other/New-Quiz-App-desktop.png"
+        "mobile": "",
+        "desktop": ""
       }
     },
     {
       "id": "2",
+      "title": "Huddle landing Page with Single Introductory Section",
+      "links": {
+        "live": "https://comendrun.com/Huddle-landing-Page-With-Single-Introductory-Section/",
+        "github": "https://github.com/comendrun/Huddle-landing-Page-With-Single-Introductory-Section",
+        "source": "https://www.frontendmentor.io/solutions/used-mobilefirst-approach-and-css-flexbox-OUfehDan_i"
+      },
+      "tech": [
+        {
+          "name": "HTML",
+          "display": "fa-brands fa-html5"
+        },
+        {
+          "name": "CSS",
+          "display": "fa-brands fa-css3-alt"
+        },
+        {
+          "name": "Responsive",
+          "display": "fa-solid fa-mobile-screen-button"
+        }
+      ],
+      "images": {
+        "mobile": "",
+        "desktop": ""
+      }
+    },
+
+    {
+      "id": "3",
+      "title": "Intro section with dropdown navigation",
+      "links": {
+        "live": "https://comendrun.com/Intro-Section-With-Dropdown-Navigation/",
+        "github": "https://github.com/comendrun/Intro-Section-With-Dropdown-Navigation",
+        "source": "https://www.frontendmentor.io/solutions/mobilefirst-approach-and-cssflex-U1YEOxfiwA"
+      },
+      "tech": [
+        {
+          "name": "HTML",
+          "display": "fa-brands fa-html5"
+        },
+        {
+          "name": "CSS",
+          "display": "fa-brands fa-css3-alt"
+        },
+        {
+          "name": "JavaScript",
+          "display": "fa-brands fa-js"
+        },
+        {
+          "name": "Responsive",
+          "display": "fa-solid fa-mobile-screen-button"
+        }
+      ],
+      "images": {
+        "mobile": "",
+        "desktop": ""
+      }
+    },
+
+    {
+      "id": "4",
       "title": "Time Tracking Dashboard",
       "links": {
         "live": "https://comendrun.github.io/Time-Tracking-Dashboard/",
@@ -67,12 +127,12 @@
         }
       ],
       "images": {
-        "mobile": "../src/Assets/Project Images/frontend-mentor/time-tracking-app-mob.png",
-        "desktop": "../src/Assets/Project Images/frontend-mentor/time-tracking-app-desktop.png"
+        "mobile": "",
+        "desktop": ""
       }
     },
     {
-      "id": "3",
+      "id": "5",
       "title": "Tip Calculator app",
       "links": {
         "live": "https://comendrun.github.io/Tip-calculator-app/",
@@ -102,12 +162,12 @@
         }
       ],
       "images": {
-        "mobile": "../src/Assets/Project Images/frontend-mentor/Tip-calculator-app-mobile.png",
-        "desktop": "../src/Assets/Project Images/frontend-mentor/Tip-calculator-app-desktop.png"
+        "mobile": "",
+        "desktop": ""
       }
     },
     {
-      "id": "4",
+      "id": "6",
       "title": "Sunnyside Agency Landing Page",
       "links": {
         "live": "https://comendrun.github.io/sunnyside-agency-landing-page/",
@@ -133,12 +193,12 @@
         }
       ],
       "images": {
-        "mobile": "../src/Assets/Project Images/frontend-mentor/sunnyside-agency-landing-page-mobile.png",
-        "desktop": "../src/Assets/Project Images/frontend-mentor/sunnyside-agency-landing-page-desktop.png"
+        "mobile": "",
+        "desktop": ""
       }
     },
     {
-      "id": "5",
+      "id": "7",
       "title": "Quizzical App",
       "links": {
         "live": "https://comendrun.github.io/New-Quiz-App/",
@@ -167,14 +227,14 @@
         }
       ],
       "images": {
-        "mobile": "../src/Assets/Project Images/other/New-Quiz-App-mobile.png",
-        "desktop": "../src/Assets/Project Images/other/New-Quiz-App-desktop.png"
+        "mobile": "",
+        "desktop": ""
       }
     },
     {
-      "id": "6",
-      "title": "Weather-Image-App",
-      "about": "a ReactJs app that uses two different APIs. one API to get weather info from OpenWeatherMap and the other one to get a related Image from Unsplash servers. I used the backend (NodeJS, ExpressJS) to hide my API keys from any visitor.",
+      "id": "8",
+      "title": "Weather Image App",
+      "about": "",
       "links": {
         "live": "https://comendrun.com/Weather-Image-App/",
         "github": "https://github.com/comendrun/Weather-Image-App"
@@ -206,8 +266,47 @@
         }
       ],
       "images": {
-        "mobile": "../src/Assets/Project Images/other/New-Quiz-App-mobile.png",
-        "desktop": "../src/Assets/Project Images/other/New-Quiz-App-desktop.png"
+        "mobile": "",
+        "desktop": ""
+      }
+    },
+    {
+      "id": "9",
+      "title": "Blogr landing page",
+      "about": "",
+      "links": {
+        "live": "https://comendrun.com/Blogr-landing-page/",
+        "github": "https://github.com/comendrun/Blogr-landing-page"
+      },
+      "tech": [
+        {
+          "name": "HTML",
+          "display": "fa-brands fa-html5"
+        },
+        {
+          "name": "CSS",
+          "display": "fa-brands fa-css3-alt"
+        },
+        {
+          "name": "JavaScript",
+          "display": "fa-brands fa-js"
+        },
+        {
+          "name": "ReactJS",
+          "display": "fa-brands fa-react"
+        },
+        {
+          "name": "Responsive",
+          "display": "fa-solid fa-mobile-screen-button"
+        },
+        {
+          "name": "TailwindCSS",
+          "display": "tailwind-css"
+        }
+      ],
+      "images": {
+        "mobile": "",
+        "desktop": ""
       }
     }
   ]

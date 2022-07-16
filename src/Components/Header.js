@@ -13,9 +13,9 @@ export default function Header({ darkModeOnClick }) {
         className={isNavbarOn ? "overlay" : "hidden"}
       ></div>
       <div className="logo">
-        <NavLink to="/">
+        <a href="/">
           <i className="fa-solid fa-terminal"></i>comendrun -m "Kamran"
-        </NavLink>
+        </a>
       </div>
       <button
         onClick={() => {
@@ -31,9 +31,9 @@ export default function Header({ darkModeOnClick }) {
       <nav className={`nav ${!isNavbarOn ? "open" : ""}`}>
         <ul className="nav__list">
           <li className="nav__item">
-            <NavLink to="/" className="nav__link">
+            <a href="#home" className="nav__link">
               Home
-            </NavLink>
+            </a>
           </li>
           <li className="nav__item">
             <a href="#services" className="nav__link">

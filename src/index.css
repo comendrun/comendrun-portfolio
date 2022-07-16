@@ -1,0 +1,17 @@
+.tailwind-css{
+    /* border: 1px solid white; */
+    width: 50px;
+    height: 25px;
+    color: white;
+    /* content:attr("TCSS"); */
+    /* padding: 0;
+    margin: 0; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tailwind-css::after{
+    content: "Tailwind";
+    font-size: 1rem;
+    text-align: center;
+}

@@ -8,8 +8,7 @@ export default function Services() {
         <div className="service">
           <h3>Frontend Development</h3>
           <p>
-            I have experience working with different methods of Frontend
-            development, Specially I enjoy working with the ReactJS library.
+          I have experience working with different methods of frontend development, and I especially enjoy working with the React JS library.
           </p>
         </div>
         {/* <!-- / service --> */}
@@ -27,7 +26,7 @@ export default function Services() {
         <div className="service">
           <h3>Technical Skills</h3>
           <p>
-            I have a decent understanding of the main tools of Frontend
+            I have a good understanding of the main tools of Frontend
             Development and I thrive on learning every day and in every possible
             way.
           </p>
