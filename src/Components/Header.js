@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { NavLink } from "react-router-dom";
 
 export default function Header({ darkModeOnClick }) {
   const [isNavbarOn, setIsNavbarOn] = useState(false);
@@ -12,11 +11,11 @@ export default function Header({ darkModeOnClick }) {
         }}
         className={isNavbarOn ? "overlay" : "hidden"}
       ></div>
-      <div className="logo">
-        <a href="/">
+      {/* <div className="logo"> */}
+        <a className="logo" href="/">
           <i className="fa-solid fa-terminal"></i>comendrun -m "Kamran"
         </a>
-      </div>
+      {/* </div> */}
       <button
         onClick={() => {
           setIsNavbarOn((preValue) => !preValue);
