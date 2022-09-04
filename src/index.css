@@ -1,17 +1,57 @@
-.tailwind-css{
-    /* border: 1px solid white; */
-    width: 50px;
-    height: 25px;
-    color: white;
-    /* content:attr("TCSS"); */
-    /* padding: 0;
-    margin: 0; */
-    display: flex;
-    justify-content: center;
-    align-items: center;
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+
+:root {
+  /* --font-base: "DM Sans", sans-serif;
+
+  --primary-color: #edf2f8;
+  --secondary-color: #313bac;
+  --black-color: #030303;
+  --lightGray-color: #e4e4e4;
+  --gray-color: #6b7688;
+  --brown-color: #46364a;
+  --white-color: #ffffff;
+
+  --accent-color: #ff0066; */
 }
-.tailwind-css::after{
-    content: "Tailwind";
-    font-size: 1rem;
-    text-align: center;
+
+#dark {
+  --font-base: "DM Sans", sans-serif;
+
+  --primary-color: #333333;
+  --secondary-color: #3a86ff;
+
+  --white-color: #202124;
+
+  --lightGray-color: #e4e4e4;
+  --gray-color: #6b7688;
+
+  --accent-color: #3a86ff;
+
+  --text-base: #ffffff;
+  --text-desc: #ffffffa1;
+  --text-accent: #3a86ff;
+  --text-accent-2: #313bac;
+
+  --box-shadow-color: rgba(58, 134, 255, 0.4);
+
+  --header-bg: url("./assets/outline-blob/bgDark-with-outline-blobs.png");
+}
+
+#light {
+  --font-base: "DM Sans", sans-serif;
+
+  --primary-color: #edf2f8;
+  --secondary-color: #313bac;
+
+  --white-color: #ffffff;
+
+  --accent-color: #ff0066;
+  --header-bg: url("./assets/outline-blob/bgWhite-with-outline-blobs.png");
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
 }

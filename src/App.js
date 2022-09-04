@@ -1,29 +1,27 @@
-import { useState } from "react";
-import { Route, BrowserRouter, Switch } from "react-router-dom";
-import "./App.css";
-import Footer from "./Components/Footer";
-import Header from "./Components/Header";
-import HomePage from "./Pages/HomePage";
-import ProjectPage from "./Pages/Projects/ProjectPage";
+import "./app.scss";
 
+import { About, Header, Footer, Skills } from "./container";
+
+import { BrowserRouter } from "react-router-dom";
+
+import { Navbar } from "./Components";
+import ProjectsPage from "./Pages/ProjectsPage/ProjectsPage";
+
+import { useContext } from "react";
+import ThemeContext from "./context/ThemeContext";
 
 function App() {
-  const [darkMode, setDarkMode] = useState(true);
+  const { theme } = useContext(ThemeContext);
+
   return (
-    <div className={`app ${darkMode && "dark"}`}>
+    <div className="app" id={theme}>
       <BrowserRouter>
-        <Header darkModeOnClick={() => setDarkMode((preValue) => !preValue)} />
-
-        <Switch>
-          <Route exact path="/">
-            <HomePage />
-          </Route>
-
-          <Route path="/projects">
-            <ProjectPage />
-          </Route>
-        </Switch>
-
+        <Navbar />
+        <Header />
+        <ProjectsPage />
+        <Skills />
+        <About />
+        {/* <Testimonials /> */}
         <Footer />
       </BrowserRouter>
     </div>
