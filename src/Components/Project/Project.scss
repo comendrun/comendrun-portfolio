@@ -17,6 +17,12 @@
   overflow: hidden;
 
   background-color: var(--primary-color);
+
+  a {
+    text-decoration: none;
+    color: var(--secondary-color);
+    font-size: 1.1rem;
+  }
 }
 
 .app__project-container {
@@ -272,16 +278,15 @@
   margin: 2rem;
 }
 
+.app__project-return-btn-link {
+  margin-left: auto;
+}
 .app__project-return-btn {
+  color: white;
   padding: 1rem 2rem;
   border-radius: 15px;
   background-color: var(--secondary-color);
   cursor: pointer;
   margin: 0 1rem 1rem auto;
-  margin-left: auto;
-
-  .app__project-return-btn-link {
-    color: white;
-    text-decoration: none;
-  }
+  text-decoration: none;
 }
