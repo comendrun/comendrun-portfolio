@@ -37,7 +37,7 @@ const Header = () => {
             </div>
           </div>
           <div className="tag-cmp app__flex">
-            <p className="p-text">a Frontend Developer</p>
+            <p className="p-text">a Software Developer</p>
           </div>
         </div>
       </motion.div>
@@ -48,14 +48,14 @@ const Header = () => {
         whileHover={{ scale: 1.02, rotate: 0.5 }}
         className="app__header-img"
       >
-        <img src={images.comendrun2} alt="profile_bg" />
-        <motion.img
+        <img src={images.comendrun3} alt="profile_bg" />
+        {/* <motion.img
           whileInView={{ scale: [0, 1] }}
           transition={{ duration: 1, ease: "easeInOut" }}
           className="overlay_circle"
           src={images.blobBlueColor}
           alt="profile_circle"
-        />
+        /> */}
       </motion.div>
 
       <motion.div
