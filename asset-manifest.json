@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.80329c3d.css",
-    "main.js": "/static/js/main.fd8edf02.js",
+    "main.css": "/static/css/main.dec8b9e7.css",
+    "main.js": "/static/js/main.b05975f9.js",
     "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/comendrun-removebg.png": "/static/media/comendrun-removebg.bfe1fece24f2aca83cbe.png",
@@ -11,6 +11,7 @@
     "static/media/comendrun-2.png": "/static/media/comendrun-2.19eb0f064a718728e115.png",
     "static/media/about03.png": "/static/media/about03.c26c2547bb1a423cf283.png",
     "static/media/spotify.png": "/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/comendrun-3.png": "/static/media/comendrun-3.deb54d2c554e90a0be9c.png",
     "static/media/nb.png": "/static/media/nb.98f3253e32cc67a4cb5e.png",
     "static/media/bgDark-with-outline-blobs.png": "/static/media/bgDark-with-outline-blobs.50950b0866ebbef8c809.png",
     "static/media/bgWhite-with-outline-blobs.png": "/static/media/bgWhite-with-outline-blobs.e4c9a6c75aa93c22bf73.png",
@@ -30,16 +31,16 @@
     "static/media/css.png": "/static/media/css.5721a3928fe43de6baf8.png",
     "static/media/git.png": "/static/media/git.a54d3fa44e02f2f61e69.png",
     "static/media/skype.png": "/static/media/skype.c8d7ee175da5b4c8a8ab.png",
-    "static/media/blob-blue-color.svg": "/static/media/blob-blue-color.f46be088aafd6558acd46607ffe39a4a.svg",
-    "static/media/blob-color.svg": "/static/media/blob-color.52b7c0a60ec4fe14bab49a19ff8825a4.svg",
+    "static/media/blob-blue-color.svg": "/static/media/blob-blue-color.b66a2675ca9ec829ee66403d40dbea56.svg",
+    "static/media/blob-color.svg": "/static/media/blob-color.d212856d5e6dcc4810dc43bbcacb3a00.svg",
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "static/media/blob.svg": "/static/media/blob.4aa63968615f375020f2b2055ba39b73.svg",
-    "main.80329c3d.css.map": "/static/css/main.80329c3d.css.map",
-    "main.fd8edf02.js.map": "/static/js/main.fd8edf02.js.map"
+    "main.dec8b9e7.css.map": "/static/css/main.dec8b9e7.css.map",
+    "main.b05975f9.js.map": "/static/js/main.b05975f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.80329c3d.css",
-    "static/js/main.fd8edf02.js"
+    "static/css/main.dec8b9e7.css",
+    "static/js/main.b05975f9.js"
   ]
 }
