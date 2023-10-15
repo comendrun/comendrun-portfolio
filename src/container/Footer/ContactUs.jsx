@@ -13,7 +13,6 @@ export const ContactUs = () => {
       [field]: "This field is required",
     }));
   };
-  console.log(errors);
   const sendEmail = useCallback(
     async (e) => {
       e.preventDefault();
@@ -25,7 +24,6 @@ export const ContactUs = () => {
 
       // if the input fields are empty, do not send the email
       if (name === "" || email === "" || message === "") {
-        console.log(name, email, message);
         if (form.current.fromName.value === "") {
           createErrorMessage("name");
         }
@@ -48,11 +46,11 @@ export const ContactUs = () => {
         )
         .then(
           (result) => {
-            console.log(result);
+            console.log(result.text);
             setIsFormSubmitted(true);
           },
           (error) => {
-            console.log(error.text);
+            console.error(error.text);
           }
         );
 
@@ -62,8 +60,6 @@ export const ContactUs = () => {
     },
     [form, setErrors, setIsLoading, setIsFormSubmitted]
   );
-
-  console.log("isLoading", isLoading);
 
   return (
     <form
