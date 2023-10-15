@@ -26,6 +26,7 @@ import about04 from "../assets/about04.png";
 import profile from "../assets/profile.png";
 import comendrun from "../assets/comendrun-removebg.png";
 import comendrun2 from "../assets/comendrun-2.png";
+import comendrun3 from "../assets/comendrun-3.png";
 import circle from "../assets/circle.svg";
 import blob from "../assets/blob.svg";
 import blobPinkColor from "../assets/blob-color.svg";
@@ -80,4 +81,5 @@ export default {
   blob,
   blobPinkColor,
   blobBlueColor,
+  comendrun3
 };

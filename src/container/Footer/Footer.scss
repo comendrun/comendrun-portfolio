@@ -134,6 +134,13 @@
 .send-message {
   h3 {
     color: var(--accent-color);
-    text-shadow: 0 0 25px white;
+    text-shadow: 0 0 25px rgb(178, 163, 163);
+    margin: 5rem 0;
   }
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+  margin: 0.5rem 0;
 }

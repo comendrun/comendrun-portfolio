@@ -7,6 +7,7 @@ import "./Footer.scss";
 import { AppWrap, MotionWrap } from "../../wrapper";
 
 import { client } from "../../client";
+import { ContactUs } from "./ContactUs";
 
 const Footer = () => {
   const [formData, setFormData] = useState({
@@ -44,23 +45,7 @@ const Footer = () => {
     <>
       <h2 className="head-text chat">Chat with me</h2>
 
-      <div className="app__footer-cards">
-        <div className="app__footer-card">
-          <img src={images.email} alt="email" />
-          <a href="mailto:kamran.rouhani@outlook.com" className="p-text">
-            info@comendrun.com
-          </a>
-        </div>
-
-        <div className="app__footer-card">
-          <img src={images.mobile} alt="mobile" />
-          <a href="tel:+49 163 3447846" className="p-text">
-            +49 163 3447846
-          </a>
-        </div>
-      </div>
-
-      {!isFormSubmitted ? (
+      {/* {!isFormSubmitted ? (
         <div className="app__footer-form app__flex">
           <div className="app__flex">
             <input
@@ -101,7 +86,9 @@ const Footer = () => {
         <div className="send-message">
           <h3 className="head-text">Thank you for getting in touch</h3>
         </div>
-      )}
+      )} */}
+
+      <ContactUs />
     </>
   );
 };

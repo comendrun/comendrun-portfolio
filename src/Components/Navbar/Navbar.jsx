@@ -59,6 +59,17 @@ function Navbar() {
           </motion.div>
         )}
       </div>
+
+      <div className="app__navbar-blog">
+        <a
+          href="https://blog.comendrun.com"
+          target="_blank"
+          rel="noreferrer"
+          // className="app__navbar-blog"
+        >
+          My Blog
+        </a>
+      </div>
     </nav>
   );
 }
