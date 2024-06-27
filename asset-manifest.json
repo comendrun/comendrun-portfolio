@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/comendrun-portfolio/static/css/main.4a62c91b.css",
-    "main.js": "/comendrun-portfolio/static/js/main.ff8c11c9.js",
+    "main.js": "/comendrun-portfolio/static/js/main.aff6916c.js",
     "static/media/about04.png": "/comendrun-portfolio/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/comendrun-portfolio/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/comendrun-removebg.png": "/comendrun-portfolio/static/media/comendrun-removebg.bfe1fece24f2aca83cbe.png",
@@ -37,10 +37,10 @@
     "static/media/circle.svg": "/comendrun-portfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "static/media/blob.svg": "/comendrun-portfolio/static/media/blob.4aa63968615f375020f2b2055ba39b73.svg",
     "main.4a62c91b.css.map": "/comendrun-portfolio/static/css/main.4a62c91b.css.map",
-    "main.ff8c11c9.js.map": "/comendrun-portfolio/static/js/main.ff8c11c9.js.map"
+    "main.aff6916c.js.map": "/comendrun-portfolio/static/js/main.aff6916c.js.map"
   },
   "entrypoints": [
     "static/css/main.4a62c91b.css",
-    "static/js/main.ff8c11c9.js"
+    "static/js/main.aff6916c.js"
   ]
 }
