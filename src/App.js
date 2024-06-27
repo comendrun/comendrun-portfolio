@@ -2,7 +2,7 @@ import "./app.scss";
 
 import { About, Header, Footer, Skills } from "./container";
 
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, HashRouter } from "react-router-dom";
 
 import { Navbar } from "./Components";
 import ProjectsPage from "./Pages/ProjectsPage/ProjectsPage";
@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="app" id={theme}>
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
         <Header />
         <ProjectsPage />
@@ -23,7 +23,7 @@ function App() {
         <About />
         {/* <Testimonials /> */}
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
